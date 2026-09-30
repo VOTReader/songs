@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-09-27.1092","generated":"2026-09-27T18:45:15-06:00",
+"schema":1,"version":"2026-09-29.1097","generated":"2026-09-29T18:46:31-06:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":3396440,"sh":1,"cr":null,"lyr":1,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.87,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":4225092,"sh":1,"cr":null,"lyr":1,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.83,"vs":false},
@@ -1092,7 +1092,12 @@
 {"id":"9ccea749e319","t":"The Bridegroom Comes","f":"the-bridegroom-comes","v":"Retro · Pop · Sky of Sapphire","st":["retro","pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":313.6,"b":4841442,"sh":5,"cr":"Sky of Sapphire","lyr":1,"rd":null,"fs":"2026-09-05","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"c2569d31562a","t":"I Choose You","f":"i-choose-you","v":"Instrumental · Sky of Sapphire","st":["instrumental"],"dl":"instrumental","lang":"en","src":{"k":"none","id":null,"c":null},"d":183.2,"b":2886489,"sh":5,"cr":"Sky of Sapphire","lyr":0,"rd":null,"fs":"2026-09-05","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"ec51c3968bd3","t":"You Stepped In","f":"you-stepped-in","v":"Rock · Worship","st":["rock","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":332.5,"b":4855187,"sh":5,"cr":null,"lyr":1,"rd":null,"fs":"2026-09-05","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"fa510fe0b9a4","t":"From Your Arms","f":"from-your-arms","v":"R&B · Pop · Sky of Sapphire","st":["pop","rnb"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":203.9,"b":2963027,"sh":5,"cr":"Sky of Sapphire","lyr":1,"rd":null,"fs":"2026-09-05","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"fa510fe0b9a4","t":"From Your Arms","f":"from-your-arms","v":"R&B · Pop · Sky of Sapphire","st":["pop","rnb"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":203.9,"b":2963027,"sh":5,"cr":"Sky of Sapphire","lyr":1,"rd":null,"fs":"2026-09-05","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"1dcb9a9f2f99","t":"Only One","f":"only-one","v":"Pop · R&B","st":["pop","rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":188.5,"b":2820746,"sh":5,"cr":null,"lyr":0,"rd":null,"fs":"2026-09-29","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"54f5953df911","t":"Hidden Place","f":"hidden-place","v":"World · Pop","st":["world","pop","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":267.0,"b":4825830,"sh":5,"cr":null,"lyr":0,"rd":null,"fs":"2026-09-29","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"5d8545b9f3dd","t":"Right Here Beside Me","f":"right-here-beside-me","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":270.5,"b":4513836,"sh":5,"cr":null,"lyr":0,"rd":null,"fs":"2026-09-29","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"9f04de6fffb1","t":"Faithful in the Wound","f":"faithful-in-the-wound","v":"Rock","st":["rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":296.0,"b":4793695,"sh":5,"cr":null,"lyr":0,"rd":null,"fs":"2026-09-29","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"c85ba90a4279","t":"Nasa Hu Et Avoneinu (He Carried Our Sins)","f":"nasa-hu-et-avoneinu","v":"Folk · World","st":["folk","world","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":207.0,"b":3164396,"sh":5,"cr":null,"lyr":0,"rd":null,"fs":"2026-09-29","hid":false,"dup":null,"vb":null,"vs":false}
 ],
 "families":[
 {"id":"a-blessing-for-all","t":"A Blessing for All","feat":"793fb9ef67b2","n":3,"col":"blessed","src":{"k":"letter","id":"blessed:introduction","c":"m"},"lb":"letter excerpt","vs":true,"vfeat":"793fb9ef67b2","nvs":3},
@@ -1290,6 +1295,7 @@
 {"id":"exposed-that-idol","t":"Exposed That Idol","feat":"259431eb40fc","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"eyes-like-fire-robe-dipped-red","t":"Eyes Like Fire, Robe Dipped Red","feat":"d5344fc6a035","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"faith-made-complete","t":"Faith Made Complete","feat":"74b8f98b12f8","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"faithful-in-the-wound","t":"Faithful in the Wound","feat":"9f04de6fffb1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"fall-on-the-stone","t":"Fall On The Stone","feat":"61801e5b6dd1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"falling-into-grace","t":"Falling into Grace","feat":"ebd888f67800","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"false-needs-and-most-needful","t":"False Needs and Most Needful","feat":"f567acbafb12","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
@@ -1368,6 +1374,7 @@
 {"id":"held-through-the-night","t":"Held Through the Night","feat":"7380875b7960","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"help-me-o-god","t":"Help Me, O God!","feat":"27009c0316ce","n":1,"col":"timothy","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"lb":"letter excerpt","vs":true,"vfeat":"27009c0316ce","nvs":1},
 {"id":"here-i-am-lord","t":"Here I Am, Lord","feat":"c6f2b02ef113","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"hidden-place","t":"Hidden Place","feat":"54f5953df911","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"his-days-not-mine","t":"His Days, Not Mine","feat":"f913b2075c8e","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"his-gaze-alone","t":"His Gaze Alone","feat":"5a9ed20f110c","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:steadfast-faith","c":"h"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"his-words","t":"His Words","feat":"36e854176b8a","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
@@ -1547,6 +1554,7 @@
 {"id":"my-redeemer-lives","t":"My Redeemer Lives","feat":"e564c40a8c2b","n":3,"col":"timothy","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"lb":"letter excerpt","vs":true,"vfeat":"e564c40a8c2b","nvs":3},
 {"id":"my-shield","t":"My Shield","feat":"d7fea53b6ec3","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"narrow-is-the-way","t":"Narrow Is The Way","feat":"7852cc68cb3c","n":2,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:narrow-is-the-way","c":"h"},"lb":"letter words","vs":true,"vfeat":"7852cc68cb3c","nvs":2},
+{"id":"nasa-hu-et-avoneinu","t":"Nasa Hu Et Avoneinu","feat":"c85ba90a4279","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"neon-lies","t":"Neon Lies","feat":"902867b817a1","n":2,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"neon-lights","t":"Neon Lights","feat":"ad89591bb8e2","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"neon-strings","t":"Neon Strings","feat":"dfe437141f12","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -1586,6 +1594,7 @@
 {"id":"one-salvation","t":"One Salvation","feat":"500246a1b728","n":6,"col":"wtlb2","src":{"k":"letter","id":"wtlb2:one-salvation","c":"h"},"lb":"letter words","vs":true,"vfeat":"500246a1b728","nvs":5},
 {"id":"one-word-written-in-the-thunder","t":"One Word, Written In The Thunder","feat":"da11ae5cfd3f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"only-food-only-drink","t":"Only Food, Only Drink","feat":"2ce8018760b2","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"only-one","t":"Only One","feat":"1dcb9a9f2f99","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"only-you-my-king","t":"Only You, My King","feat":"3fe27af4cda9","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"open-my-eyes","t":"Open My Eyes","feat":"b2eba7ea791d","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"order-up-set-the-table","t":"Order Up - Set The Table","feat":"960c6f0c3e95","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
@@ -1637,6 +1646,7 @@
 {"id":"ridin-home-to-you","t":"Ridin’ Home To You","feat":"c6feee12481f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"riding-the-flame-of-truth","t":"Riding The Flame Of Truth","feat":"1390aef8f51e","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"right-heart-wild-fire","t":"Right Heart, Wild Fire","feat":"84bafccd247e","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"right-here-beside-me","t":"Right Here Beside Me","feat":"5d8545b9f3dd","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"right-on-time","t":"Right on Time","feat":"6a7c0625a47e","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"rightly-dividing-the-word","t":"Rightly Dividing The Word","feat":"fef7729cc81d","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"rip-to-this-worlds-illusion","t":"RIP to This World's Illusion","feat":"9cfda29bf485","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
