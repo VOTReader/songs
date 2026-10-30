@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-10-29.1962","generated":"2026-10-29T18:45:59-06:00",
+"schema":1,"version":"2026-10-29.1962.2","generated":"2026-10-29T20:36:19-06:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -1961,7 +1961,7 @@
 {"id":"c85ba90a4279","t":"Nasa Hu Et Avoneinu (He Carried Our Sins)","f":"nasa-hu-et-avoneinu","v":"Folk · World","st":["folk","world","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":207.0,"b":4752366,"sh":13,"cr":null,"lyr":2,"rd":null,"fs":"2026-10-29","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"1dcb9a9f2f99","t":"Only One","f":"only-one","v":"Pop · R&B","st":["pop","rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":188.5,"b":4294110,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2026-10-29","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"5d8545b9f3dd","t":"Right Here Beside Me","f":"right-here-beside-me","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":270.5,"b":6088902,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2026-10-29","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"13c9752a1671","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","f":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"letter","id":"one:and-he-shall-be-called-i-am","c":"m"},"d":444.3,"b":4023485,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-10-29","hid":false,"dup":null,"vb":0.89,"vs":true},
+{"id":"13c9752a1671","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","f":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"letter","id":"one:and-he-shall-be-called-i-am","c":"m"},"d":444.3,"b":4023485,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-10-29","hid":true,"dup":null,"vb":0.89,"vs":true},
 {"id":"4bb5907433ce","t":"Face to Face","f":"face-to-face","v":"Pop · Folk · Sky of Sapphire","st":["pop","folk"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":232.8,"b":5000043,"sh":14,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-10-29","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
 "families":[
@@ -3055,7 +3055,7 @@
 {"id":"unshaken-love","t":"Unshaken Love","feat":"48bd9572f72f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"until-you-come","t":"Until You Come","feat":"764ccbd68075","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"untitled","t":"”","feat":"584df83208e9","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
-{"id":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","feat":"13c9752a1671","n":1,"col":"one","src":{"c":"m","id":"one:and-he-shall-be-called-i-am","k":"letter"},"lb":"unknown","vs":true,"vfeat":"13c9752a1671","nvs":1},
+{"id":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","feat":"13c9752a1671","n":0,"col":"one","src":{"c":"m","id":"one:and-he-shall-be-called-i-am","k":"letter"},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"veil-of-gray","t":"Veil of Gray","feat":"bb46f3dcb749","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"veiled-churches-of-men","t":"Veiled Churches of Men","feat":"a4a9cd50f1ad","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"verse-1","t":"(Verse 1)","feat":"b419881eac53","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
