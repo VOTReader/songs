@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-06.2019.3","generated":"2026-11-06T04:08:42-07:00",
+"schema":1,"version":"2026-11-06.2021","generated":"2026-11-06T11:23:07-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2017,9 +2017,11 @@
 {"id":"e6ffb9bb67ac","t":"Remember the Tide","f":"remember-the-tide","v":"Rock · Sky of Sapphire","st":["rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":236.3,"b":5384574,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"428d0d22e798","t":"The All in All","f":"the-all-in-all","v":"Cinematic · Hip-hop · Sky of Sapphire","st":["cinematic","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":297.8,"b":6527598,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"d4bf0c998db8","t":"Take The Leap","f":"take-the-leap","v":"R&B · Hip-hop","st":["rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":299.0,"b":7109022,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"381d0777ef34","t":"Leah was loved","f":"leah-was-loved","v":"Rock","st":["rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":302.4,"b":7196959,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"63b7dc8d3b8c","t":"The Stand","f":"the-stand","v":"Pop · Hip-hop · Sky of Sapphire","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":206.8,"b":3201339,"sh":15,"cr":"Sky of Sapphire","lyr":0,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":null,"vs":false},
 {"id":"e1f606662649","t":"The Still Small Voice","f":"the-still-small-voice","v":"Cinematic · Pop · Sky of Sapphire","st":["cinematic","pop","rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":227.0,"b":5025918,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"f327878c6d70","t":"Light in the Dark","f":"light-in-the-dark","v":"Pop · Sky of Sapphire","st":["pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":232.4,"b":5132786,"sh":14,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"381d0777ef34","t":"Leah was loved","f":"leah-was-loved","v":"Rock","st":["rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":302.4,"b":7196959,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"094a43ad82ab","t":"The Stand","f":"the-stand","v":"Pop · Dance · Sky of Sapphire","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":203.6,"b":4884960,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
 "families":[
 {"id":"7th-day-lion","t":"7th Day Lion","feat":"f7af69d6b8ae","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -3059,6 +3061,7 @@
 {"id":"the-sound-of-my-love","t":"The Sound of My Love","feat":"6a1c015855cb","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:the-sound-of-my-love","c":"h"},"lb":"letter words","vs":true,"vfeat":"6a1c015855cb","nvs":1},
 {"id":"the-spirit-of-truth-brings-conviction","t":"The Spirit of Truth Brings Conviction","feat":"6d9e521a88ab","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:the-spirit-of-truth-brings-conviction","c":"h"},"lb":"letter words","vs":true,"vfeat":"6d9e521a88ab","nvs":1},
 {"id":"the-spirit-of-unity","t":"The Spirit of Unity","feat":"f85a2af2548d","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:the-spirit-of-unity","c":"h"},"lb":"letter words","vs":true,"vfeat":"f85a2af2548d","nvs":1},
+{"id":"the-stand","t":"The Stand","feat":"63b7dc8d3b8c","n":2,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"the-still-small-voice","t":"The Still Small Voice","feat":"e1f606662649","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"the-stone","t":"The Stone","feat":"684168f6d36e","n":1,"col":"wtlb2","src":{"k":"letter","id":"wtlb2:the-stone","c":"m"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"the-sword-comes","t":"The Sword Comes","feat":"9fea0f9510ac","n":1,"col":"seven","src":{"k":"letter","id":"seven:the-sword-comes","c":"h"},"lb":"letter words","vs":true,"vfeat":"9fea0f9510ac","nvs":1},
