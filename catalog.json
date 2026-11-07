@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-06.2022","generated":"2026-11-06T21:11:33-07:00",
+"schema":1,"version":"2026-11-06.2022.2","generated":"2026-11-06T21:13:38-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2020,7 +2020,7 @@
 {"id":"5d8545b9f3dd","t":"Right Here Beside Me","f":"right-here-beside-me","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":270.5,"b":6088902,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"d4bf0c998db8","t":"Take The Leap","f":"take-the-leap","v":"R&B · Hip-hop","st":["rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":299.0,"b":7109022,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"428d0d22e798","t":"The All in All","f":"the-all-in-all","v":"Cinematic · Hip-hop · Sky of Sapphire","st":["cinematic","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":297.8,"b":6527598,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"63b7dc8d3b8c","t":"The Stand","f":"the-stand","v":"Pop · Hip-hop · Sky of Sapphire","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":206.8,"b":3201339,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"63b7dc8d3b8c","t":"The Stand","f":"the-stand","v":"Pop · Hip-hop · Sky of Sapphire","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":206.8,"b":4794941,"sh":16,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"e1f606662649","t":"The Still Small Voice","f":"the-still-small-voice","v":"Cinematic · Pop · Sky of Sapphire","st":["cinematic","pop","rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":227.0,"b":5025918,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"3a8f6c91d0e4","t":"Run It Up (Stray Kids)","f":"run-it-up","v":"Pop · Hip-hop","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":166.0,"b":3948604,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
