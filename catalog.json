@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-06.2022.2","generated":"2026-11-06T21:13:38-07:00",
+"schema":1,"version":"2026-11-07.2027","generated":"2026-11-07T20:15:30-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2022,7 +2022,12 @@
 {"id":"428d0d22e798","t":"The All in All","f":"the-all-in-all","v":"Cinematic · Hip-hop · Sky of Sapphire","st":["cinematic","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":297.8,"b":6527598,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"63b7dc8d3b8c","t":"The Stand","f":"the-stand","v":"Pop · Hip-hop · Sky of Sapphire","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":206.8,"b":4794941,"sh":16,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"e1f606662649","t":"The Still Small Voice","f":"the-still-small-voice","v":"Cinematic · Pop · Sky of Sapphire","st":["cinematic","pop","rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":227.0,"b":5025918,"sh":15,"cr":"Sky of Sapphire","lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"3a8f6c91d0e4","t":"Run It Up (Stray Kids)","f":"run-it-up","v":"Pop · Hip-hop","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":166.0,"b":3948604,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"3a8f6c91d0e4","t":"Run It Up (Stray Kids)","f":"run-it-up","v":"Pop · Hip-hop","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":166.0,"b":3948604,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"016dfb146d49","t":"Ven, El Amor te Espera","f":"ven-el-amor-te-espera","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":220.0,"b":5131524,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"52fff9491c22","t":"La Gracia de los Humildes","f":"la-gracia-de-los-humildes","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":204.0,"b":4792534,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"fc24a7262ac0","t":"El Amor Los Ha Salvado","f":"el-amor-los-ha-salvado","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":203.3,"b":4836798,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"64840302dbcd","t":"Forgive BibleLetter Study","f":"forgive-bibleletter-study","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":322.0,"b":3876030,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"0d681d6dc588","t":"My Heart's Desire","f":"my-hearts-desire","v":"Pop · Sariah & Eliana","st":["pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":251.6,"b":5714565,"sh":15,"cr":"Sariah & Eliana","lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
 "families":[
 {"id":"7th-day-lion","t":"7th Day Lion","feat":"f7af69d6b8ae","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2264,6 +2269,7 @@
 {"id":"dust-worn-roads","t":"Dust-Worn Roads","feat":"5d6154480f0f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"ears-to-hear","t":"Ears to Hear","feat":"0bc428d2ae5a","n":1,"col":"flock","src":{"k":"letter","id":"flock:ears-to-hear","c":"h"},"lb":"letter words","vs":true,"vfeat":"0bc428d2ae5a","nvs":1},
 {"id":"eden-versus-the-machine","t":"Eden versus the Machine","feat":"d25a43a8286e","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"el-amor-los-ha-salvado","t":"El Amor Los Ha Salvado","feat":"fc24a7262ac0","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"el-regreso-a-casa","t":"El Regreso a Casa","feat":"90c9090aee89","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"el-rey-eterno","t":"El Rey Eterno","feat":"616ee5ea679f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"elders-rejoicing-and-singing-praises","t":"Elders Rejoicing and Singing Praises","feat":"c30a18c64495","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
@@ -2336,6 +2342,7 @@
 {"id":"forever-he-reigns","t":"Forever He Reigns","feat":"1068218fa125","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"forever-in-your-hands","t":"Forever in Your Hands","feat":"57b92aff3354","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"forever-love-forever-name","t":"Forever Love, Forever Name","feat":"c22442c1fdb1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"forgive-bibleletter-study","t":"Forgive BibleLetter Study","feat":"64840302dbcd","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"forgive-me","t":"Forgive Me","feat":"b54948b6d350","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"forgive-me-lord","t":"Forgive Me, Lord","feat":"331fbbfe3a6c","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"forgiveness","t":"Forgiveness","feat":"a4987cd9d5f0","n":7,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2557,6 +2564,7 @@
 {"id":"la-cena-del-cordero","t":"La Cena del Cordero","feat":"4cd518b2a6ed","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"la-cosecha","t":"La Cosecha","feat":"0fd0b0c97bba","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"la-fuente-de-aguas-vivas","t":"La Fuente de Aguas Vivas","feat":"e473260ca334","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"la-gracia-de-los-humildes","t":"La Gracia de los Humildes","feat":"52fff9491c22","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"la-trompeta","t":"La Trompeta","feat":"27e3469b448b","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"lamentation-of-nicodemus","t":"Lamentation of Nicodemus","feat":"f06bd0b4075e","n":1,"col":"bible","src":{"k":"none","id":null,"c":null},"lb":"bible","vs":false,"vfeat":null,"nvs":0},
 {"id":"landowner-and-his-sheep","t":"Landowner and His Sheep","feat":"0c9502654636","n":1,"col":"timothy","src":{"k":"letter","id":"timothy:the-parable-of-the-great-landowner-and-his-beloved-sheep","c":"m"},"lb":"letter words","vs":true,"vfeat":"0c9502654636","nvs":1},
@@ -2671,6 +2679,7 @@
 {"id":"my-heart-belongs-to-you","t":"My Heart Belongs to You","feat":"c2dd02b52e1e","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"my-heart-reaches-for-you","t":"My Heart Reaches for You","feat":"c17eb1472982","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"my-heart-your-kingdom","t":"My Heart, Your Kingdom","feat":"30be2b8c7dbd","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
+{"id":"my-hearts-desire","t":"My Heart's Desire","feat":"0d681d6dc588","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"my-home","t":"My Home","feat":"69a5a362d7e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"my-kingdom-comes","t":"My Kingdom Comes","feat":"367b8e1ba86a","n":1,"col":"rebuke","src":{"k":"letter","id":"rebuke:the-cup-of-the-wrath-of-my-fury-is-come-to-the-full","c":"m"},"lb":"letter excerpt","vs":true,"vfeat":"367b8e1ba86a","nvs":1},
 {"id":"my-lord-my-life","t":"My Lord, My Life","feat":"1d92c163a05c","n":1,"col":"timothy","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"lb":"letter excerpt","vs":true,"vfeat":"1d92c163a05c","nvs":1},
@@ -3151,6 +3160,7 @@
 {"id":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","feat":"13c9752a1671","n":0,"col":"one","src":{"c":"m","id":"one:and-he-shall-be-called-i-am","k":"letter"},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"veil-of-gray","t":"Veil of Gray","feat":"bb46f3dcb749","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"veiled-churches-of-men","t":"Veiled Churches of Men","feat":"a4a9cd50f1ad","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"ven-el-amor-te-espera","t":"Ven, El Amor te Espera","feat":"016dfb146d49","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"verse-1","t":"(Verse 1)","feat":"b419881eac53","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"vessel","t":"Vessel","feat":"36c8ead0526d","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"vibrating-truth","t":"Vibrating Truth","feat":"b31c299db0a8","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
