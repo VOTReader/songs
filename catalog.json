@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-08.2028","generated":"2026-11-08T21:06:16-07:00",
+"schema":1,"version":"2026-11-10.2029","generated":"2026-11-10T08:59:12-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2028,7 +2028,8 @@
 {"id":"fc24a7262ac0","t":"El Amor Los Ha Salvado","f":"el-amor-los-ha-salvado","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":203.3,"b":4836798,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"64840302dbcd","t":"Forgive BibleLetter Study","f":"forgive-bibleletter-study","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":322.0,"b":3876030,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"0d681d6dc588","t":"My Heart's Desire","f":"my-hearts-desire","v":"Pop · Sariah & Eliana","st":["pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":251.6,"b":5714565,"sh":15,"cr":"Sariah & Eliana","lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"cc90dd8ae560","t":"Breathe Him In","f":"breathe-him-in","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":176.4,"b":4102302,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-08","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"cc90dd8ae560","t":"Breathe Him In","f":"breathe-him-in","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":176.4,"b":4102302,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-08","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"356b1c246160","t":"Kisses & Counterfeits","f":"kisses-and-counterfeits","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":222.3,"b":5380207,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-10","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
 "families":[
 {"id":"7th-day-lion","t":"7th Day Lion","feat":"f7af69d6b8ae","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2561,6 +2562,7 @@
 {"id":"kingdom-within","t":"Kingdom Within","feat":"581324ba2ff9","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"kingdoms-of-sand","t":"Kingdoms of Sand","feat":"09b7d6b653c9","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"kiss-the-son","t":"Kiss The Son","feat":"a5965205ec01","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"kisses-and-counterfeits","t":"Kisses & Counterfeits","feat":"356b1c246160","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"know-that-which-has-been-poured-out","t":"Know That Which Has Been Poured Out","feat":"c9a6e0e4b35c","n":1,"col":"one","src":{"k":"letter","id":"one:know-that-which-has-been-poured-out-the-word-of-god","c":"m"},"lb":"letter words","vs":true,"vfeat":"c9a6e0e4b35c","nvs":1},
 {"id":"known","t":"Known","feat":"5c270a0b7e0b","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"la-cena-del-cordero","t":"La Cena del Cordero","feat":"4cd518b2a6ed","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
