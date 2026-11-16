@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-15.2047","generated":"2026-11-15T10:21:46-07:00",
+"schema":1,"version":"2026-11-15.2048","generated":"2026-11-15T21:26:59-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2047,7 +2047,8 @@
 {"id":"0bfb0e3b1df8","t":"The First Stitch (take 3)","f":"the-first-stitch","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":245.0,"b":5473733,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"f2fe03d090a8","t":"Bless 'em Anyway","f":"bless-em-anyway","v":"Hip-hop · Blues · Sky of Sapphire","st":["hip-hop","blues"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":215.3,"b":5180940,"sh":15,"cr":"Sky of Sapphire","lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"203a609c7e75","t":"Light in the Dark Cover","f":"light-in-the-dark-cover","v":"Pop · Sky of Sapphire","st":["pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":235.7,"b":5171905,"sh":15,"cr":"Sky of Sapphire","lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"db3c665926dd","t":"Upon The Altar","f":"upon-the-altar","v":"Dance","st":["dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":272.2,"b":6672411,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":null,"vs":false}
+{"id":"db3c665926dd","t":"Upon The Altar","f":"upon-the-altar","v":"Dance","st":["dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":272.2,"b":6672411,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"8bb5c479b838","t":"Faithful King","f":"faithful-king","v":"Cinematic · Worship","st":["cinematic","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":262.8,"b":6150961,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":null,"vs":false}
 ],
 "families":[
 {"id":"7th-day-lion","t":"7th Day Lion","feat":"f7af69d6b8ae","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2333,6 +2334,7 @@
 {"id":"faith-made-complete","t":"Faith Made Complete","feat":"74b8f98b12f8","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"faithful-and-true","t":"Faithful and True","feat":"a2e802faf4d7","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"faithful-in-the-wound","t":"Faithful in the Wound","feat":"9f04de6fffb1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"faithful-king","t":"Faithful King","feat":"8bb5c479b838","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"fall-on-the-stone","t":"Fall On The Stone","feat":"61801e5b6dd1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"falling-into-grace","t":"Falling into Grace","feat":"ebd888f67800","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"false-needs-and-most-needful","t":"False Needs and Most Needful","feat":"f567acbafb12","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
