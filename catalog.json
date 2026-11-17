@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-17.2050","generated":"2026-11-17T08:38:07-07:00",
+"schema":1,"version":"2026-11-17.2050.2","generated":"2026-11-17T08:40:37-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2050,7 +2050,7 @@
 {"id":"db3c665926dd","t":"Upon The Altar","f":"upon-the-altar","v":"Dance","st":["dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":272.2,"b":6672411,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"8bb5c479b838","t":"Faithful King","f":"faithful-king","v":"Cinematic · Worship","st":["cinematic","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":262.8,"b":6150961,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"e0f913f801e1","t":"30.4 My Watchmen Are Sent","f":"30-4-my-watchmen-are-sent","v":"Rock · Pop","st":["rock","pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":229.2,"b":5300746,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-16","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"2041ea06a1bc","t":"30.6 Twelve Times Twelve Thousand","f":"30-6-twelve-times-twelve-thousand","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":236.3,"b":5821694,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false}
+{"id":"2041ea06a1bc","t":"30.6 Twelve Times Twelve Thousand","f":"30-6-twelve-times-twelve-thousand","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":236.3,"b":5821694,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
 "families":[
 {"id":"30-4-my-watchmen-are-sent","t":"30.4 My Watchmen Are Sent","feat":"e0f913f801e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
