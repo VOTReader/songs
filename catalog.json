@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-17.2050.2","generated":"2026-11-17T08:40:37-07:00",
+"schema":1,"version":"2026-11-17.2056","generated":"2026-11-17T20:40:02-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2050,11 +2050,17 @@
 {"id":"db3c665926dd","t":"Upon The Altar","f":"upon-the-altar","v":"Dance","st":["dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":272.2,"b":6672411,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"8bb5c479b838","t":"Faithful King","f":"faithful-king","v":"Cinematic · Worship","st":["cinematic","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":262.8,"b":6150961,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-15","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"e0f913f801e1","t":"30.4 My Watchmen Are Sent","f":"30-4-my-watchmen-are-sent","v":"Rock · Pop","st":["rock","pop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":229.2,"b":5300746,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-16","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"2041ea06a1bc","t":"30.6 Twelve Times Twelve Thousand","f":"30-6-twelve-times-twelve-thousand","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":236.3,"b":5821694,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"2041ea06a1bc","t":"30.6 Twelve Times Twelve Thousand","f":"30-6-twelve-times-twelve-thousand","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":236.3,"b":5821694,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"d7f30744ca3a","t":"Kings Become Dust","f":"kings-become-dust","v":"Cinematic · Hip-hop","st":["cinematic","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":301.2,"b":7204351,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"2ee04d180f83","t":"Step Back","f":"step-back","v":"Pop · Hip-hop","st":["pop","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":229.2,"b":5321399,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"0ca0e9671b72","t":"At the Edge of His Permission","f":"at-the-edge-of-his-permission","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":335.0,"b":7785019,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"1f735b3ab995","t":"At the Edge of His Permission (take 2)","f":"at-the-edge-of-his-permission","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":346.8,"b":8119344,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"d79842975581","t":"30.6 Twelve Times Twelve Thousand (take 2)","f":"30-6-twelve-times-twelve-thousand","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":239.9,"b":5695326,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"6721b1cfca1c","t":"Under the Word","f":"under-the-word","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":219.2,"b":4878767,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":null,"vs":false}
 ],
 "families":[
 {"id":"30-4-my-watchmen-are-sent","t":"30.4 My Watchmen Are Sent","feat":"e0f913f801e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
-{"id":"30-6-twelve-times-twelve-thousand","t":"30.6 Twelve Times Twelve Thousand","feat":"2041ea06a1bc","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"30-6-twelve-times-twelve-thousand","t":"30.6 Twelve Times Twelve Thousand","feat":"d79842975581","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"7th-day-lion","t":"7th Day Lion","feat":"f7af69d6b8ae","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"a-blessing-for-all","t":"A Blessing for All","feat":"793fb9ef67b2","n":3,"col":"blessed","src":{"k":"letter","id":"blessed:introduction","c":"m"},"lb":"letter excerpt","vs":true,"vfeat":"793fb9ef67b2","nvs":3},
 {"id":"a-bounty-of-riches","t":"A Bounty of Riches","feat":"9326e173058b","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2109,6 +2115,7 @@
 {"id":"as-it-was-in-the-days-of-noah-so-shall-the-coming-of-the-son-of-man-be","t":"As It Was in the Days of Noah, So Shall the Coming of The Son of Man Be","feat":"756906fce4ba","n":1,"col":"five","src":{"c":"m","id":"five:as-it-was-in-the-days-of-noah-so-shall-the-coming-of-the-son-of-man-be","k":"letter"},"lb":"unknown","vs":true,"vfeat":"756906fce4ba","nvs":1},
 {"id":"ascending-into-glory","t":"Ascending Into Glory","feat":"3af2fc04b865","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"ashes-into-armor","t":"Ashes into Armor","feat":"6d03f213865d","n":2,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
+{"id":"at-the-edge-of-his-permission","t":"At the Edge of His Permission","feat":"1f735b3ab995","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"at-the-feet-of-yahushua","t":"At the Feet of YahuShua","feat":"8b6ec26fc802","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"at-your-feet","t":"At Your Feet","feat":"69f77262e5ac","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"authenticity-and-unconditional-love","t":"Authenticity and Unconditional Love","feat":"93f8189bd5b6","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
@@ -2589,6 +2596,7 @@
 {"id":"kingdom-rising","t":"Kingdom Rising","feat":"6ae4f6b19212","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"kingdom-within","t":"Kingdom Within","feat":"581324ba2ff9","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"kingdoms-of-sand","t":"Kingdoms of Sand","feat":"09b7d6b653c9","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
+{"id":"kings-become-dust","t":"Kings Become Dust","feat":"d7f30744ca3a","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"kiss-the-son","t":"Kiss The Son","feat":"a5965205ec01","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"kisses-and-counterfeits","t":"Kisses & Counterfeits","feat":"356b1c246160","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"know-that-which-has-been-poured-out","t":"Know That Which Has Been Poured Out","feat":"c9a6e0e4b35c","n":1,"col":"one","src":{"k":"letter","id":"one:know-that-which-has-been-poured-out-the-word-of-god","c":"m"},"lb":"letter words","vs":true,"vfeat":"c9a6e0e4b35c","nvs":1},
@@ -2963,6 +2971,7 @@
 {"id":"stay-with-me","t":"Stay With Me","feat":"395ddf3395f1","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"steadfast-faith","t":"Steadfast Faith","feat":"56369ea1eda5","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:steadfast-faith","c":"h"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"steel-in-motion","t":"Steel in Motion","feat":"4041b978126f","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"step-back","t":"Step Back","feat":"2ee04d180f83","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"still-small-voice","t":"Still Small Voice","feat":"ffad4de7e413","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"still-thinkin-bout-me","t":"Still Thinkin’ ’Bout Me","feat":"f87c4571bddc","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"still-waters","t":"Still Waters","feat":"81e0662ff063","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
@@ -3180,6 +3189,7 @@
 {"id":"unbreakable-flame","t":"Unbreakable Flame","feat":"ce49c65c12e6","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"unbreakable-light","t":"Unbreakable Light","feat":"4211b24d3da6","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"under-the-ash","t":"Under The Ash","feat":"b4905f9c3732","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"under-the-word","t":"Under the Word","feat":"6721b1cfca1c","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"undone","t":"Undone","feat":"24ef3fa27482","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"undone-in-your-arms","t":"Undone in Your Arms","feat":"5f6b7569f938","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"undone-when-you-leave","t":"Undone When You Leave","feat":"7e5a458f0ce0","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
