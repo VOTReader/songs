@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-17.2056.2","generated":"2026-11-17T21:26:36-07:00",
+"schema":1,"version":"2026-11-18.2057","generated":"2026-11-18T20:38:25-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2056,7 +2056,8 @@
 {"id":"0ca0e9671b72","t":"At the Edge of His Permission","f":"at-the-edge-of-his-permission","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":335.0,"b":7785019,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"1f735b3ab995","t":"At the Edge of His Permission (take 2)","f":"at-the-edge-of-his-permission","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":346.8,"b":8119344,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"d79842975581","t":"30.6 Twelve Times Twelve Thousand (take 2)","f":"30-6-twelve-times-twelve-thousand","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":239.9,"b":5695326,"sh":15,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"6721b1cfca1c","t":"Under the Word","f":"under-the-word","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":219.2,"b":4878767,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"6721b1cfca1c","t":"Under the Word","f":"under-the-word","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":219.2,"b":4878767,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"0fec68f6e68d","t":"Come Quickly","f":"come-quickly","v":"Remastered · Hip-hop · Worship · Sariah & Eliana","st":["hip-hop","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":202.8,"b":4747656,"sh":15,"cr":"Sariah & Eliana","lyr":0,"rd":null,"fs":"2026-11-18","hid":false,"dup":null,"vb":null,"vs":false}
 ],
 "families":[
 {"id":"30-4-my-watchmen-are-sent","t":"30.4 My Watchmen Are Sent","feat":"e0f913f801e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2252,6 +2253,7 @@
 {"id":"come-out-from-among-them-therefore-and-be-separate","t":"_Come out from among them therefore, and be separate! (take 2)","feat":"284b1f21cd60","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"come-out-from-the-illusion","t":"Come Out From The Illusion","feat":"ff9940a42619","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"come-out-of-her","t":"Come Out of Her","feat":"7a20a1b5d160","n":1,"col":"bible","src":{"k":"none","id":null,"c":null},"lb":"bible","vs":false,"vfeat":null,"nvs":0},
+{"id":"come-quickly","t":"Come Quickly","feat":"0fec68f6e68d","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"come-to-me-my-children","t":"Come to Me My Children","feat":"057fb926f294","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"commander-we-accept-your-solution","t":"Commander, We Accept Your Solution","feat":"2f38c14a242c","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"confessions-in-the-storm","t":"Confessions in the Storm","feat":"74319522bddd","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
