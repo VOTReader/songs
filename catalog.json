@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-19.2059","generated":"2026-11-19T21:09:44-07:00",
+"schema":1,"version":"2026-11-20.2062","generated":"2026-11-20T16:57:28-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2059,11 +2059,15 @@
 {"id":"6721b1cfca1c","t":"Under the Word","f":"under-the-word","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":219.2,"b":4878767,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-17","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"0fec68f6e68d","t":"Come Quickly","f":"come-quickly","v":"Remastered · Hip-hop · Worship · Sariah & Eliana","st":["hip-hop","worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":202.8,"b":4747656,"sh":15,"cr":"Sariah & Eliana","lyr":2,"rd":null,"fs":"2026-11-18","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"bc0ff1648137","t":"Heart Check","f":"heart-check","v":"Dance · Hip-hop","st":["dance","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":250.6,"b":5912951,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-19","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"c76e299ffa4f","t":"Hungry For The Real","f":"hungry-for-the-real","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":193.4,"b":4267457,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-19","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"c76e299ffa4f","t":"Hungry For The Real","f":"hungry-for-the-real","v":"Pop · Dance","st":["pop","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":193.4,"b":4267457,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-19","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"58240a96b36f","t":"Watchman's Dawn","f":"watchmans-dawn","v":"R&B · Hip-hop","st":["rnb","hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":421.2,"b":9882809,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-20","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"05d03ffed4b9","t":"Together in One Place 10-20-23 From YahuShua HaMashiach Our Lord and Savior","f":"together-in-one-place-10-20-23-from-yahushua-hamashiach-our-lord-and-savior","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":129.1,"b":1273999,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-20","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"b5c7858e33a1","t":"30.8 What To Look For","f":"30-8-what-to-look-for","v":"Pop · Folk","st":["pop","folk"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":259.7,"b":5948796,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-20","hid":false,"dup":null,"vb":null,"vs":false}
 ],
 "families":[
 {"id":"30-4-my-watchmen-are-sent","t":"30.4 My Watchmen Are Sent","feat":"e0f913f801e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-6-twelve-times-twelve-thousand","t":"30.6 Twelve Times Twelve Thousand","feat":"d79842975581","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"30-8-what-to-look-for","t":"30.8 What To Look For","feat":"b5c7858e33a1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"7th-day-lion","t":"7th Day Lion","feat":"f7af69d6b8ae","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"a-blessing-for-all","t":"A Blessing for All","feat":"793fb9ef67b2","n":3,"col":"blessed","src":{"k":"letter","id":"blessed:introduction","c":"m"},"lb":"letter excerpt","vs":true,"vfeat":"793fb9ef67b2","nvs":3},
 {"id":"a-bounty-of-riches","t":"A Bounty of Riches","feat":"9326e173058b","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -3168,6 +3172,7 @@
 {"id":"to-be-set-apart","t":"To Be Set Apart","feat":"7efa135d6ff1","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"today-is-the-day","t":"Today Is The Day","feat":"0c32691dbce6","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"together-again","t":"Together Again","feat":"ea5d56d00f02","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"together-in-one-place-10-20-23-from-yahushua-hamashiach-our-lord-and-savior","t":"Together in One Place 10-20-23 From YahuShua HaMashiach Our Lord and Savior","feat":"05d03ffed4b9","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"together-with-yahushua","t":"Together with YahuShua","feat":"7509e707f839","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"touching-the-heart-of-god-and-matters-of-the-heart","t":"Touching the Heart of God & Matters of the Heart","feat":"dabe84124a1d","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"transgression","t":"Transgression","feat":"9b7dae072b8a","n":4,"col":"two","src":{"k":"letter","id":"two:transgression","c":"m"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
@@ -3250,6 +3255,7 @@
 {"id":"wasted-my-time","t":"Wasted My Time","feat":"0091bffc07f4","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"watch","t":"Watch","feat":"b01283c3e3f2","n":2,"col":"one","src":{"k":"letter","id":"one:watch","c":"m"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"watch-the-old-me-collapse","t":"Watch The Old Me Collapse","feat":"dabab7a9f3d3","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"watchmans-dawn","t":"Watchman's Dawn","feat":"58240a96b36f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"waves-of-light","t":"waves of light","feat":"5108dc4b61ee","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"we-are-waiting","t":"We are Waiting","feat":"5a73918a973d","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"we-cry-times-up","t":"We Cry \"Time's Up\"!","feat":"fd25aaf4b11a","n":1,"col":"bible","src":{"k":"none","id":null,"c":null},"lb":"bible","vs":false,"vfeat":null,"nvs":0},
