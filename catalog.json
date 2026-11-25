@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-23.2151","generated":"2026-11-23T20:43:57-07:00",
+"schema":1,"version":"2026-11-24.2154","generated":"2026-11-24T22:00:41-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -2151,9 +2151,13 @@
 {"id":"ebe3baa9c472","t":"Shabbat Shalom (take 5)","f":"shabbat-shalom","v":"Retro","st":["retro"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":179.6,"b":4293266,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-22","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"d105ca30a3bb","t":"Shabbat Shalom (take 8)","f":"shabbat-shalom","v":"Rock · Dance","st":["rock","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":214.7,"b":4868860,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-22","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"df384cf173c9","t":"Shabbat Shalom (take 7)","f":"shabbat-shalom","v":"Rock · Dance","st":["rock","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":219.7,"b":5170815,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-22","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"73dd860527c8","t":"The First Harvest","f":"the-first-harvest","v":"Cinematic · Rock","st":["cinematic","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":411.6,"b":9655564,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-23","hid":false,"dup":null,"vb":0.0,"vs":false}
+{"id":"73dd860527c8","t":"The First Harvest","f":"the-first-harvest","v":"Cinematic · Rock","st":["cinematic","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":411.6,"b":9655564,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-23","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"354cc2965dcb","t":"Consider My Mercy”","f":"consider-my-mercy","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"letter","id":"flock:consider","c":"m"},"d":339.6,"b":7751463,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":1.0,"vs":true},
+{"id":"18ce9a4bccb3","t":"The Holy Place (take 2)","f":"the-holy-place","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb1:the-holy-place","c":"m"},"d":264.5,"b":6036793,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":0.98,"vs":true},
+{"id":"807b5b63c332","t":"11-24-23 From The Lord Our God and Savior","f":"11-24-23-from-the-lord-our-god-and-savior","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":129.3,"b":1262976,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":null,"vs":false}
 ],
 "families":[
+{"id":"11-24-23-from-the-lord-our-god-and-savior","t":"11-24-23 From The Lord Our God and Savior","feat":"807b5b63c332","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-4-my-watchmen-are-sent","t":"30.4 My Watchmen Are Sent","feat":"e0f913f801e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-6-twelve-times-twelve-thousand","t":"30.6 Twelve Times Twelve Thousand","feat":"b3c973ce522e","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-8-what-to-look-for","t":"30.8 What To Look For","feat":"b5c7858e33a1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2355,6 +2359,7 @@
 {"id":"confessions-in-the-storm","t":"Confessions in the Storm","feat":"74319522bddd","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"consider","t":"Consider","feat":"df09b419d427","n":1,"col":"flock","src":{"k":"letter","id":"flock:consider","c":"h"},"lb":"letter words","vs":true,"vfeat":"df09b419d427","nvs":1},
 {"id":"consider-my-love","t":"Consider My Love","feat":"bb44b67ecda7","n":3,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:consider-my-love","c":"h"},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"consider-my-mercy","t":"Consider My Mercy”","feat":"354cc2965dcb","n":1,"col":"flock","src":{"c":"m","id":"flock:consider","k":"letter"},"lb":"unknown","vs":true,"vfeat":"354cc2965dcb","nvs":1},
 {"id":"console-his-grief-bride-of-the-king","t":"Console His Grief, Bride of The King","feat":"42b3c37544f2","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"cornerstone","t":"Cornerstone","feat":"18e75b717917","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"cosmic-drift","t":"Cosmic Drift","feat":"cfe6676612a9","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -3098,7 +3103,7 @@
 {"id":"stand-like-steel","t":"Stand Like Steel","feat":"aa138269e0a4","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"stand-my-ground","t":"Stand my ground","feat":"aa8f0711b1fc","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"starry-night","t":"Starry Night","feat":"d20ad6e6f6e7","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
-{"id":"starry-sky","t":"Starry Sky","feat":"7b47d8bcb84a","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"starry-sky","t":"Starry Sky (Harp Version V2)","feat":"7b47d8bcb84a","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"starry-sky-v","t":"Starry Sky V","feat":"c7d211889212","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"stay-with-me","t":"Stay With Me","feat":"395ddf3395f1","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"steadfast-faith","t":"Steadfast Faith","feat":"56369ea1eda5","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:steadfast-faith","c":"h"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
@@ -3186,7 +3191,7 @@
 {"id":"the-hollow-echo","t":"The Hollow Echo","feat":"7e40131bc487","n":0,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"the-holy-flame","t":"The Holy Flame","feat":"aa13bec568ef","n":3,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:the-holy-flame","c":"h"},"lb":"letter words","vs":true,"vfeat":"aa13bec568ef","nvs":3},
 {"id":"the-holy-one-of-israel-is-coming-down","t":"The Holy One of Israel Is Coming Down","feat":"dcaf15bbe065","n":2,"col":"seven","src":{"c":"m","id":"seven:the-holy-one-of-israel-is-coming-down","k":"letter"},"lb":"unknown","vs":true,"vfeat":"dcaf15bbe065","nvs":2},
-{"id":"the-holy-place","t":"The Holy Place","feat":"e03336df8c79","n":6,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:the-holy-place","c":"h"},"lb":"letter words","vs":true,"vfeat":"e03336df8c79","nvs":6},
+{"id":"the-holy-place","t":"The Holy Place","feat":"e03336df8c79","n":7,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:the-holy-place","c":"h"},"lb":"letter words","vs":true,"vfeat":"e03336df8c79","nvs":7},
 {"id":"the-holy-seed","t":"The Holy Seed","feat":"15032b27ab30","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
 {"id":"the-horizon-line","t":"The Horizon Line","feat":"7da52857abb5","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"the-israel-of-god","t":"The Israel of God","feat":"f48fc9496a48","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
@@ -3346,7 +3351,7 @@
 {"id":"unshakable-foundation","t":"Unshakable Foundation","feat":"2138ea4c3f20","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"unshaken-love","t":"Unshaken Love","feat":"48bd9572f72f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"until-you-come","t":"Until You Come","feat":"764ccbd68075","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
-{"id":"untitled","t":"”","feat":"584df83208e9","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"untitled","t":"Untitled","feat":"584df83208e9","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"upon-the-altar","t":"Upon The Altar","feat":"db3c665926dd","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","feat":"13c9752a1671","n":0,"col":"one","src":{"c":"m","id":"one:and-he-shall-be-called-i-am","k":"letter"},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"veil-of-gray","t":"Veil of Gray","feat":"bb46f3dcb749","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
