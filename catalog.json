@@ -1,5 +1,5 @@
 {
-"schema":1,"version":"2026-11-24.2154","generated":"2026-11-24T22:00:41-07:00",
+"schema":1,"version":"2026-11-25.2156","generated":"2026-11-25T21:22:59-07:00",
 "songs":[
 {"id":"27009c0316ce","t":"Help Me, O God!","f":"help-me-o-god","v":"Country · Worship","st":["country","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"timothy:my-redeemer-lives","c":"h"},"d":238.3,"b":5252598,"sh":10,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":true},
 {"id":"6b10fcfbaefb","t":"A Pure Heart","f":"a-pure-heart","v":"Country · Worship","st":["country","pop","worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb2:the-pure-of-heart","c":"m"},"d":293.9,"b":6589494,"sh":11,"cr":null,"lyr":2,"rd":null,"fs":"2025-09-20","hid":false,"dup":null,"vb":0.99,"vs":false},
@@ -1661,7 +1661,6 @@
 {"id":"3985befb23be","t":"Twins (Sweet Daughter of Mine)” (take 2)","f":"twins","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":292.8,"b":6708680,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"3101b3fa7ef4","t":"“God’s Design” (take 2)","f":"gods-design","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":222.6,"b":5196202,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"3862fadd048b","t":"“God’s Design”","f":"gods-design","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":275.0,"b":6276311,"sh":14,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
-{"id":"55ce9d4d796a","t":"Stay With Me (Country Cover)","f":"stay-with-me","v":"Country · Rock","st":["country","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":287.2,"b":6614266,"sh":6,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"ee3cf2034093","t":"_Begin Again In Me_ prayed back (Country Cover)","f":"begin-again-in-me-prayed-back","v":"Country · Folk","st":["country","folk"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":222.7,"b":5475715,"sh":8,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"4dfde0feb141","t":"River At The Morning","f":"river-at-the-morning","v":"Instrumental · Cinematic","st":["cinematic","instrumental"],"dl":"instrumental","lang":"en","src":{"k":"none","id":null,"c":null},"d":195.7,"b":4191176,"sh":9,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-06","hid":true,"dup":null,"vb":0.0,"vs":false},
 {"id":"80ab3da1331d","t":"Desert Night","f":"desert-night","v":"Instrumental · Cinematic","st":["cinematic","instrumental"],"dl":"instrumental","lang":"en","src":{"k":"none","id":null,"c":null},"d":271.2,"b":5646998,"sh":9,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-06","hid":true,"dup":null,"vb":0.0,"vs":false},
@@ -2016,6 +2015,7 @@
 {"id":"454b033381b0","t":"I Am Pleased","f":"i-am-pleased","v":"Pop · Rock","st":["pop","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":252.9,"b":5371970,"sh":6,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"7d6a5df72ecd","t":"Look Around You, Love Surrounds You","f":"look-around-you-love-surrounds-you","v":"Rock · Folk","st":["rock","folk"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":224.3,"b":5408438,"sh":7,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"edac6821343f","t":"Psalm 102","f":"psalm-102","v":"Hip-hop","st":["hip-hop"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":175.4,"b":4026345,"sh":14,"cr":null,"lyr":1,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"55ce9d4d796a","t":"Stay With Me (Country Cover)","f":"stay-with-me","v":"Country · Rock","st":["country","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":287.2,"b":6614266,"sh":6,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-06","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"016dfb146d49","t":"Ven, El Amor te Espera","f":"ven-el-amor-te-espera","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":220.0,"b":5131524,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"52fff9491c22","t":"La Gracia de los Humildes","f":"la-gracia-de-los-humildes","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":204.0,"b":4792534,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"fc24a7262ac0","t":"El Amor Los Ha Salvado","f":"el-amor-los-ha-salvado","v":"Spanish · Pop · Rock","st":["pop","spanish"],"dl":"sung","lang":"es","src":{"k":"none","id":null,"c":null},"d":203.3,"b":4836798,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-07","hid":false,"dup":null,"vb":0.0,"vs":false},
@@ -2154,10 +2154,13 @@
 {"id":"73dd860527c8","t":"The First Harvest","f":"the-first-harvest","v":"Cinematic · Rock","st":["cinematic","rock"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":411.6,"b":9655564,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-23","hid":false,"dup":null,"vb":0.0,"vs":false},
 {"id":"354cc2965dcb","t":"Consider My Mercy”","f":"consider-my-mercy","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"letter","id":"flock:consider","c":"m"},"d":339.6,"b":7751463,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":1.0,"vs":true},
 {"id":"18ce9a4bccb3","t":"The Holy Place (take 2)","f":"the-holy-place","v":"Worship","st":["worship"],"dl":"sung","lang":"en","src":{"k":"letter","id":"wtlb1:the-holy-place","c":"m"},"d":264.5,"b":6036793,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":0.98,"vs":true},
-{"id":"807b5b63c332","t":"11-24-23 From The Lord Our God and Savior","f":"11-24-23-from-the-lord-our-god-and-savior","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":129.3,"b":1262976,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":null,"vs":false}
+{"id":"807b5b63c332","t":"11-24-23 From The Lord Our God and Savior","f":"11-24-23-from-the-lord-our-god-and-savior","v":"","st":[],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":129.3,"b":1262976,"sh":15,"cr":null,"lyr":0,"rd":null,"fs":"2026-11-24","hid":false,"dup":null,"vb":null,"vs":false},
+{"id":"db8c35a9106a","t":"Dry Grass","f":"dry-grass","v":"Cinematic · Dance","st":["cinematic","dance"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":427.2,"b":9896015,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-25","hid":false,"dup":null,"vb":0.0,"vs":false},
+{"id":"c9a53a3e6cbb","t":"14.5 I Heard Your Heart","f":"14-5-i-heard-your-heart","v":"Rock · Cinematic","st":["rock","cinematic"],"dl":"sung","lang":"en","src":{"k":"none","id":null,"c":null},"d":226.5,"b":5197751,"sh":15,"cr":null,"lyr":2,"rd":null,"fs":"2026-11-25","hid":false,"dup":null,"vb":0.0,"vs":false}
 ],
 "families":[
 {"id":"11-24-23-from-the-lord-our-god-and-savior","t":"11-24-23 From The Lord Our God and Savior","feat":"807b5b63c332","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"14-5-i-heard-your-heart","t":"14.5 I Heard Your Heart","feat":"c9a53a3e6cbb","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-4-my-watchmen-are-sent","t":"30.4 My Watchmen Are Sent","feat":"e0f913f801e1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-6-twelve-times-twelve-thousand","t":"30.6 Twelve Times Twelve Thousand","feat":"b3c973ce522e","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"30-8-what-to-look-for","t":"30.8 What To Look For","feat":"b5c7858e33a1","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
@@ -2399,6 +2402,7 @@
 {"id":"down","t":"Down","feat":"e71a749e0834","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"draw-me-deeply-into-flame","t":"Draw Me Deeply Into Flame","feat":"2537d9a50cab","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"drums-of-heaven","t":"Drums of Heaven","feat":"5f62b1e42a59","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
+{"id":"dry-grass","t":"Dry Grass","feat":"db8c35a9106a","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"due-reward","t":"Due Reward","feat":"2de04cb70b2e","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:due-reward","c":"h"},"lb":"letter words","vs":true,"vfeat":"2de04cb70b2e","nvs":1},
 {"id":"dusk-to-dawn","t":"Dusk to Dawn","feat":"7925485f878b","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"dust-and-inheritance","t":"Dust and Inheritance","feat":"2e6694646242","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
@@ -3103,7 +3107,7 @@
 {"id":"stand-like-steel","t":"Stand Like Steel","feat":"aa138269e0a4","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"stand-my-ground","t":"Stand my ground","feat":"aa8f0711b1fc","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"starry-night","t":"Starry Night","feat":"d20ad6e6f6e7","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
-{"id":"starry-sky","t":"Starry Sky (Harp Version V2)","feat":"7b47d8bcb84a","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"starry-sky","t":"Starry Sky","feat":"7b47d8bcb84a","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"starry-sky-v","t":"Starry Sky V","feat":"c7d211889212","n":0,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"stay-with-me","t":"Stay With Me","feat":"395ddf3395f1","n":2,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"steadfast-faith","t":"Steadfast Faith","feat":"56369ea1eda5","n":1,"col":"wtlb1","src":{"k":"letter","id":"wtlb1:steadfast-faith","c":"h"},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
@@ -3351,7 +3355,7 @@
 {"id":"unshakable-foundation","t":"Unshakable Foundation","feat":"2138ea4c3f20","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
 {"id":"unshaken-love","t":"Unshaken Love","feat":"48bd9572f72f","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by the letters","vs":false,"vfeat":null,"nvs":0},
 {"id":"until-you-come","t":"Until You Come","feat":"764ccbd68075","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"inspired by a letter","vs":false,"vfeat":null,"nvs":0},
-{"id":"untitled","t":"Untitled","feat":"584df83208e9","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
+{"id":"untitled","t":"”","feat":"584df83208e9","n":3,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"upon-the-altar","t":"Upon The Altar","feat":"db3c665926dd","n":1,"col":"inspired","src":{"k":"none","id":null,"c":null},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"v1-010-and-he-shall-be-called-i-am-read-by-text-to-speech-benjamin","t":"V1.010 And He Shall Be Called I AM read by text-to-speech - Benjamin","feat":"13c9752a1671","n":0,"col":"one","src":{"c":"m","id":"one:and-he-shall-be-called-i-am","k":"letter"},"lb":"unknown","vs":false,"vfeat":null,"nvs":0},
 {"id":"veil-of-gray","t":"Veil of Gray","feat":"bb46f3dcb749","n":1,"col":"originals","src":{"k":"none","id":null,"c":null},"lb":"original","vs":false,"vfeat":null,"nvs":0},
